@@ -1,0 +1,1 @@
+<body class="<?php echo $hints ?>">
